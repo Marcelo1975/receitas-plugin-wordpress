@@ -1,0 +1,10 @@
+.mr_receitas_loginarea{
+	display: flex;
+}
+.mr_receitas_loginitem{
+	flex:1;
+	padding:10px;
+}
+.br_hide_form{
+	display: none;
+}
